@@ -46,6 +46,8 @@
             this.button16 = new System.Windows.Forms.Button();
             this.button17 = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textbox_result = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -210,11 +212,33 @@
             this.button19.Text = "=";
             this.button19.UseVisualStyleBackColor = true;
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(13, 103);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(398, 26);
+            this.textBox1.TabIndex = 19;
+            this.textBox1.Text = "0";
+            this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // textbox_result
+            // 
+            this.textbox_result.AutoSize = true;
+            this.textbox_result.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textbox_result.Location = new System.Drawing.Point(12, 80);
+            this.textbox_result.Name = "textbox_result";
+            this.textbox_result.Size = new System.Drawing.Size(57, 20);
+            this.textbox_result.TabIndex = 20;
+            this.textbox_result.Text = "label1";
+            this.textbox_result.Click += new System.EventHandler(this.textbox_result_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(425, 450);
+            this.Controls.Add(this.textbox_result);
+            this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button19);
             this.Controls.Add(this.button17);
             this.Controls.Add(this.button16);
@@ -237,6 +261,7 @@
             this.Name = "Form1";
             this.Text = "Simple Calculator";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -260,6 +285,8 @@
         private System.Windows.Forms.Button button16;
         private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Button button19;
+        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label textbox_result;
     }
 }
 

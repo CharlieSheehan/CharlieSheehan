@@ -16,5 +16,10 @@ namespace Simple_Calc
         {
             InitializeComponent();
         }
+
+        private void textbox_result_Click(object sender, EventArgs e)
+        {
+            textbox_result.Text=textbox_result.Text+"1"
+        }
     }
 }
