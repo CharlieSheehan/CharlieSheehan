@@ -19,7 +19,13 @@ namespace Simple_Calc
 
         private void textbox_result_Click(object sender, EventArgs e)
         {
-            textbox_result.Text=textbox_result.Text+"1"
+            
+        }
+
+        private void buttonclick(object sender, EventArgs e)
+        {
+            Button button = (Button)sender;
+            textBox1.Text = textBox1.Text + button.Text;
         }
     }
 }
