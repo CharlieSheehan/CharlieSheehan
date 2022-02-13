@@ -1,0 +1,11 @@
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\bin\Debug\Simple Calc.exe.config
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\bin\Debug\Simple Calc.exe
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\bin\Debug\Simple Calc.pdb
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\obj\Debug\Simple Calc.csproj.AssemblyReference.cache
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\obj\Debug\Simple Calc.csproj.SuggestedBindingRedirects.cache
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\obj\Debug\Simple_Calc.Form1.resources
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\obj\Debug\Simple_Calc.Properties.Resources.resources
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\obj\Debug\Simple Calc.csproj.GenerateResource.cache
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\obj\Debug\Simple Calc.csproj.CoreCompileInputs.cache
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\obj\Debug\Simple Calc.exe
+C:\Users\30322\Desktop\2022 SCHOOL FOLDER\Software Development\Projects\Simple calculator\Simple Calc\Simple Calc\obj\Debug\Simple Calc.pdb
