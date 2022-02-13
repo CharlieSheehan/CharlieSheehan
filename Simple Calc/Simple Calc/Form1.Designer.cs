@@ -244,9 +244,8 @@
             this.textbox_result.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textbox_result.Location = new System.Drawing.Point(12, 80);
             this.textbox_result.Name = "textbox_result";
-            this.textbox_result.Size = new System.Drawing.Size(57, 20);
+            this.textbox_result.Size = new System.Drawing.Size(0, 30);
             this.textbox_result.TabIndex = 20;
-            this.textbox_result.Text = "label1";
             this.textbox_result.Click += new System.EventHandler(this.textbox_result_Click);
             // 
             // Form1

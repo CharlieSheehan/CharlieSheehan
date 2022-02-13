@@ -8,6 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+
+///!Accident within the program! textbox_result is actually the label whereas textBox1 is the textbox_result
+
 namespace Simple_Calc
 {
     public partial class Form1 : Form
@@ -27,9 +31,11 @@ namespace Simple_Calc
 
         private void buttonclick(object sender, EventArgs e)
         {
-            if (textBox1.Text == "0")
+            /// Clearing the number 0 from textboxOne 
+            if ((textBox1.Text == "0") || (isOperationPerformed))
                 textBox1.Clear();
 
+            ///Buttons will print their text, effectively being able to print every button with 3 lines of code instead of 30
             isOperationPerformed = false;
             Button button = (Button)sender;
             textBox1.Text = textBox1.Text + button.Text;
@@ -39,7 +45,8 @@ namespace Simple_Calc
         {
             Button button = (Button)sender;
             operationPerformed = button.Text;
-            resultValue = Double.Parse(textBox1.Text); 
+            resultValue = Double.Parse(textBox1.Text);
+            textbox_result.Text = resultValue + " " + operationPerformed;
             isOperationPerformed = true;
 
         }
@@ -56,6 +63,7 @@ namespace Simple_Calc
 
         private void button19_Click(object sender, EventArgs e)
         {
+            ///multiplication, addition, subtraction, division all put together
             switch(operationPerformed)
             {
                 case "+":
