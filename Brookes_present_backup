@@ -1198,3 +1198,23 @@ foreach (char c in text139)
 
 
 Console.WriteLine("");
+Console.WriteLine(" ");
+Console.WriteLine(" ");
+Console.WriteLine(" ");
+
+
+string reply;
+Console.ForegroundColor = ConsoleColor.Cyan;
+Console.WriteLine("Hey baby, now for all the questions tha require your input you have to either respond with 'yes' or 'no'. Type it exactly like that otherwise it won't work");
+Console.WriteLine("ONE RULE!!!! CHARLIE (me) has most likely just left the room to give you a suprise. You have to act suprised by the way ᕦ(ò_óˇ)ᕤ, there 's no choice in the matter ᕦ(ò_óˇ)ᕤᕦ(ò_óˇ)ᕤᕦ(ò_óˇ)ᕤ... BUT WAIT KEEP LOOKING AT THE SCREEN YOU NEED TO SEE THIS, I'M GONNA ASK YOU A QUESTION!!!!");
+Thread.Sleep(9000);
+Console.WriteLine("So anyways, I'd like to ask you: Do you want to see what's next?");
+reply = Console.ReadLine();
+if (reply == "yes")
+{
+    Console.WriteLine("Brilliant, so now, all you have to do is yell out 'cum in baby!!!'        One last time, I love you baby 1232 times (that's how many lines of code I wrote for you");
+}
+else
+{
+    Console.WriteLine("Well, I guess you miss out then. hoe ass bye byeeeeeee!!!");
+}
