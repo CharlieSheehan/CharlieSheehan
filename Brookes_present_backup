@@ -1,0 +1,1200 @@
+Console.ForegroundColor = ConsoleColor.White;
+string text = "Look, I won't pretend I understand it babe, the afterlife and all But as you died you promised me that you would try to write or call And I've been waiting ever since Every Sunday I hold séances with like-minded adults And roll your corpse into the living room And try and find your pulse and then repine at the results I've even got my windowsills lined up with ultraviolet bulbs Shrunken shrines of human skulls and other signs of the occult But now I'm at a fucking loss, 'cause honey, nothing seems to work Like I've been astra";
+foreach (char c in text)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+
+
+
+//yond, m, ns, Throug
+/// <summary>
+/// FIRST LINE //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/// </summary>
+/// 
+    Console.ForegroundColor = ConsoleColor.Red;
+    string text1 = "lly ";
+    foreach (char c in text1)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.White;
+    string text2 = "projecting my body be";
+    foreach (char c in text2)
+    {
+    Console.Write(c);
+    Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.Red;
+    string text3 = "yond my";
+    foreach (char c in text3)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.White;
+    string text4 = " drea";
+    foreach (char c in text4)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.Red;
+    string text5 = "ms Throug";
+    foreach (char c in text5)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+
+
+
+
+
+
+///
+/// SECOND LINE /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///
+
+//ure, down, hop, g, you caught 
+    Console.ForegroundColor = ConsoleColor.White;
+    string text6 = "h the fabric of space and time So you could me spot me at the seams I vent";
+    foreach (char c in text6)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.Red;
+    string text7 = "ure";
+    foreach (char c in text7)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.White;
+    string text8 = "d through the upside-";
+    foreach (char c in text8)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+     
+    Console.ForegroundColor = ConsoleColor.Red;
+    string text9 = "down, hop";
+    foreach (char c in text9)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.White;
+    string text10 = "in";
+    foreach (char c in text10)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.Red;
+    string text11 = "g you caught ";
+    foreach (char c in text11)
+    {
+        Console.Write(c);
+        Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.White;
+    string text12 = "me in between But maybe if you've got the tech Then you could haunt me o";
+    foreach (char c in text12)
+    {
+        Console.Write(c);
+    Thread.Sleep(10);
+    }
+
+
+///
+/// LINE 3 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///
+
+//on my, hould, infiltrate my news
+
+    Console.ForegroundColor = ConsoleColor.Red;
+    string text13 = "n m";
+    foreach (char c in text13)
+    {
+        Console.Write(c);
+    Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.White;
+    string text14 = "y screens Like you s";
+    foreach (char c in text14)
+    {
+        Console.Write(c);
+    Thread.Sleep(10);
+    }
+
+    Console.ForegroundColor = ConsoleColor.Red;
+    string text15 = "hould infiltrate my news";
+    foreach (char c in text15)
+    {
+        Console.Write(c);
+    Thread.Sleep(10);
+    }
+
+
+/// LINE 4 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/// 
+
+//eed, S Be a pixelated phantom
+
+
+Console.ForegroundColor = ConsoleColor.White;
+string text16 = "feed I swear no one would notice You could float beside some bogus BuzzFe";
+foreach (char c in text16)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text17 = "ed";
+foreach (char c in text17)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text18 = " quiz about the POTU";
+foreach (char c in text18)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text19 = "S Be a pixelated phanto";
+foreach (char c in text19)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text20 = "m  Ghost on clickbait propaganda posts And dictate what you're thinking thr";
+foreach (char c in text20)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+///
+/// FIFTH LINE //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/// 
+
+// ough, ike One weird reason
+
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text21 = "oug";
+foreach (char c in text21)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text22 = "h a catchy headline L";
+foreach (char c in text22)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text23 = "ike One weird reason";
+foreach (char c in text23)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text24 = " why its great to be ether";
+foreach (char c in text24)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+
+///
+/// SIXTH LINE ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///
+
+//eal Or Twenty si, u'r, ea, and your, is immaterial, ate at night th
+//
+//e
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text25 = "eal Or Twenty si";
+foreach (char c in text25)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text26 = "gns yo";
+foreach (char c in text26)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text27 = "u'r";
+foreach (char c in text27)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text28 = "e d";
+foreach (char c in text28)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text29 = "ead";
+foreach (char c in text29)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text30 = " now";
+foreach (char c in text30)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text31 = " and your";
+foreach (char c in text31)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text32 = " soul";
+foreach (char c in text32)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text33 = " is immaterial";
+foreach (char c in text33)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+Console.ForegroundColor = ConsoleColor.White;
+string text34 = " Or if it's l";
+foreach (char c in text34)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text35 = "ate at night then";
+foreach (char c in text35)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text36 = " you could swoop in from th";
+foreach (char c in text36)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+///
+/// SEVENTH LINE /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/// 
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text37 = "e S";
+foreach (char c in text37)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text38 = "had";
+foreach (char c in text38)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text39 = "ow";
+foreach (char c in text39)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text40 = " Rea";
+foreach (char c in text40)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text41 = "lm A";
+foreach (char c in text41)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text42 = "nd tal";
+foreach (char c in text42)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text43 = "k t";
+foreach (char c in text43)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text44 = "o me t";
+foreach (char c in text44)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text46 = "hrou";
+foreach (char c in text46)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text47 = "gh";
+foreach (char c in text47)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text48 = " pop-";
+foreach (char c in text48)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text49 = "up a";
+foreach (char c in text49)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text50 = "ds t";
+foreach (char c in text50)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text51 = "hat";
+foreach (char c in text51)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text52 = " show u";
+foreach (char c in text52)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text53 = "p ov";
+foreach (char c in text53)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text54 = "er adult film";
+foreach (char c in text54)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text55 = "s On anything y";
+foreach (char c in text55)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text56 = "ou're into, we could start w";
+foreach (char c in text56)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+///
+/// EIGHTH LINE /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/// 
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text57 = "ith";
+foreach (char c in text57)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text58 = " mi";
+foreach (char c in text58)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text45 = "lf";
+foreach (char c in text45)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+Console.ForegroundColor = ConsoleColor.White;
+string text59 = " or f";
+foreach (char c in text59)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text60 = "aci";
+foreach (char c in text60)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text61 = "al You";
+foreach (char c in text61)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text62 = " co";
+foreach (char c in text62)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text63 = "uld";
+foreach (char c in text63)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text64 = " be";
+foreach (char c in text64)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text65 = "am y";
+foreach (char c in text65)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text66 = "our";
+foreach (char c in text66)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text87 = " inte";
+foreach (char c in text87)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text67 = "rs";
+foreach (char c in text67)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text68 = "patia";
+foreach (char c in text68)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text69 = "l sp";
+foreach (char c in text69)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text70 = "irit i";
+foreach (char c in text70)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text71 = "nto";
+foreach (char c in text71)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text72 = " interracial If";
+foreach (char c in text72)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text73 = " you're feel";
+foreach (char c in text73)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text74 = "ing sorta formal, we could piz";
+foreach (char c in text74)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+///
+/// NINTH LINE ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/// 
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text75 = "za";
+foreach (char c in text75)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text76 = " dat";
+foreach (char c in text76)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text77 = "e";
+foreach (char c in text77)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text78 = " o";
+foreach (char c in text78)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text79 = "n Sky";
+foreach (char c in text79)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text80 = "pe";
+foreach (char c in text80)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text81 = " And I";
+foreach (char c in text81)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text82 = " co";
+foreach (char c in text82)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text83 = "ould";
+foreach (char c in text83)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text84 = " c";
+foreach (char c in text84)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+Console.ForegroundColor = ConsoleColor.White;
+string text85 = "all";
+foreach (char c in text85)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text1002 = " the";
+foreach (char c in text1002)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text86 = " coro";
+foreach (char c in text86)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text88 = "ne";
+foreach (char c in text88)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text89 = "r ove";
+foreach (char c in text89)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text90 = "r n'";
+foreach (char c in text90)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text91 = " we co";
+foreach (char c in text91)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text92 = "uld s";
+foreach (char c in text92)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text93 = "hare the corner s";
+foreach (char c in text93)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text94 = "lice Wh";
+foreach (char c in text94)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text95 = "en it's time to go to bed then";
+foreach (char c in text95)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+
+
+/// <summary>
+/// TENTH LINE ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/// </summary>
+Console.ForegroundColor = ConsoleColor.Red;
+string text96 = " we";
+foreach (char c in text96)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text98 = " cou";
+foreach (char c in text98)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text99 = "ld";
+foreach (char c in text99)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text100 = " leav";
+foreach (char c in text100)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text101 = "e o";
+foreach (char c in text101)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text102 = "ur cam";
+foreach (char c in text102 )
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text103 = "eras on A";
+foreach (char c in text103)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text104 = "nd i";
+foreach (char c in text104)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text105 = "f the neth";
+foreach (char c in text105)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text106 = "erwor";
+foreach (char c in text106)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text107 = "ld ha";
+foreach (char c in text107)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text108 = "s one";
+foreach (char c in text108)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text109 = " day";
+foreach (char c in text109)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text110 = " shipping free on Ama";
+foreach (char c in text110)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text111 = "z";
+foreach (char c in text111)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text112 = "on Then you could slumber as you ship yourself I swear this shit delivers qui";
+foreach (char c in text112)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+/// <summary>
+/// ELEVENTH LINE
+/// </summary>
+
+Console.ForegroundColor = ConsoleColor.Red;
+string text113 = "ck";
+foreach (char c in text113)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text114 = "Or send me the address and";
+foreach (char c in text114)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text115 = " I";
+foreach (char c in text115)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text116 = " could meet you by the River Styx I'd Twitter beef with Namtar by the Tigris and Euphrates I could snap you whi";
+foreach (char c in text116)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text117 = "l";
+foreach (char c in text117)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text118 = "e I'm snagging sacred threads";
+foreach (char c in text118)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text119 = "o";
+foreach (char c in text119)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text120 = "f life from Hades I would loot Duat and photocopy-pirate the papyrus Change the records and then hav";
+foreach (char c in text120)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text121 = "e";
+foreach (char c in text121)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text122 = " a Facebook flamewar with Osiris And either wa";
+foreach (char c in text122)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text123 = "y";
+foreach (char c in text123)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text124 = ", I can't wait to t";
+foreach (char c in text124)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text125 = "o";
+foreach (char c in text125)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text126 = " talk or reunite I've";
+foreach (char c in text126)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text127 = " B";
+foreach (char c in text127)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text128 = "een so lonely since you died I've t";
+foreach (char c in text128)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text129 = "r";
+foreach (char c in text129)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text130 = "ied t";
+foreach (char c in text130)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text131 = "o";
+foreach (char c in text131)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text133 = " walk t";
+foreach (char c in text133)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text134 = "o";
+foreach (char c in text134)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text135 = "wards the light And if the gods of death oppose our harmless want to reconvene Then maybe we could snea";
+foreach (char c in text135)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.Green;
+string text136 = "k";
+foreach (char c in text136)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text137 = " you by '";
+foreach (char c in text137)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text138 = "e";
+foreach (char c in text138)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+Console.ForegroundColor = ConsoleColor.White;
+string text139 = "m if you haunt me through a screen It's been far too long that you and I have been alone You could rectify that if you haunt me through my phone No, I don't want to deal with Voodoo dolls and figurines I could do without them if you'd haunt me through my screen I'm just frustrated I guess I've hung out in countless graveyards, drawn pentagrams And slaughtered goats, and even took a course on hunting Ghosts from Pentecostal folks but never once have gotten close Last month I sat with local psychics and their crystal jewels And tried to find my old T-Mobile Sidekick phone from middle school Just so maybe if you're bored of fortune-telling tarot cards and Magic words then you could tweet a hundred-forty characters so I could throw away my Voodoo dolls and stop chanting my Juju mantras That my guru taught us and if you slide into some YouTube comments You could scroll the comment page or you could leave it blank If your specter is perceptible we'd tell 'em it's a prank And if you still don't send responses, I'd assume the problem's technical And I would call Verizon just so someone could inspect it all I'd tell him I just want a close encounter of the spectral kind He'd ask if I turned on our modem-router for a second time And plugged it in correctly to the voltage-power-socket-line And tried to tear a portal hole through to your paranormal soul So me and you could catch up on a toll-free spirit-mortal call Or we could see a witch doctor, she'd prolly be skeptical Clinician with a stethoscope, the specimen non-skeletal The symptoms metaphysical, the convalescent soulless At first her diagnosis could be: we should try hypnosis But truthfully, if you can choose that way you're reborn I hope you use the 3G phone and you eschew the Ouija board And at this point, I don't really know why I learned ESP for When you could just descend and settle in my USB port Or my Nvidia GeForce or my video AV cord There's no need for Santa Muerte, when I've got a QWERTY keyboard We could play a game of e-sports, you and I'd be on a team And if you're feeling otiose, I'll put my audio on stream I'll still have your favorite games babe, I've got 'em all on Steam We'll get started when you're ready Once you haunt me through a screen It's been far too long that you and I have been alone You could rectify that if you haunt me through my phone No, I don't want to deal with Voodoo dolls and figurines I could do without them if you'd haunt me through my screen";
+foreach (char c in text139)
+{
+    Console.Write(c);
+    Thread.Sleep(10);
+}
+
+
+
+
+
+
+
+
+
+
+
+Console.WriteLine("");
