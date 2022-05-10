@@ -1,0 +1,11 @@
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\bin\Debug\Working Graph Little Oink.exe.config
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\bin\Debug\Working Graph Little Oink.exe
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\bin\Debug\Working Graph Little Oink.pdb
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\obj\Debug\Working Graph Little Oink.csproj.AssemblyReference.cache
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\obj\Debug\Working Graph Little Oink.csproj.SuggestedBindingRedirects.cache
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\obj\Debug\Working_Graph_Little_Oink.Form1.resources
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\obj\Debug\Working_Graph_Little_Oink.Properties.Resources.resources
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\obj\Debug\Working Graph Little Oink.csproj.GenerateResource.cache
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\obj\Debug\Working Graph Little Oink.csproj.CoreCompileInputs.cache
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\obj\Debug\Working Graph Little Oink.exe
+C:\Users\30322\Desktop\Little Oink\different sides\Working graph w visuals\Working Graph Little Oink\Working Graph Little Oink\obj\Debug\Working Graph Little Oink.pdb
