@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlieSheehan
 - 👀 I’m interested in Data Science and Software development
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m currently studying a Diploma of Information Technology at Swinburne
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me (not just yet)
 
